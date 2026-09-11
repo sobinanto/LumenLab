@@ -1,0 +1,142 @@
+{
+  "title": "Open Science, Education & Creative Tools",
+  "description": "Free curated resources for open science, education, and creative work. Useful for humans and AI agents.",
+  "updated": "2026-09-11",
+  "categories": [
+    {
+      "name": "Open Science",
+      "items": [
+        {
+          "name": "arXiv",
+          "url": "https://arxiv.org",
+          "description": "Open-access preprints in physics, math, CS, quantitative biology and more."
+        },
+        {
+          "name": "PubMed Central",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/",
+          "description": "Free full-text archive of biomedical and life sciences literature."
+        },
+        {
+          "name": "Zenodo",
+          "url": "https://zenodo.org",
+          "description": "CERN-backed repository for research data, software and publications with DOIs."
+        },
+        {
+          "name": "Open Science Framework",
+          "url": "https://osf.io",
+          "description": "Open project management, data sharing and preregistration platform."
+        },
+        {
+          "name": "DOAJ",
+          "url": "https://doaj.org",
+          "description": "Directory of Open Access Journals – high-quality peer-reviewed OA journals."
+        },
+        {
+          "name": "Internet Archive",
+          "url": "https://archive.org",
+          "description": "Books, journals, software, web history (Wayback Machine) and more."
+        },
+        {
+          "name": "Unpaywall",
+          "url": "https://www.unpaywall.org",
+          "description": "Finds legal open-access versions of research papers."
+        },
+        {
+          "name": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org",
+          "description": "Free media files under open licenses."
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "name": "MIT OpenCourseWare",
+          "url": "https://ocw.mit.edu",
+          "description": "Almost the entire MIT curriculum free for the world."
+        },
+        {
+          "name": "Khan Academy",
+          "url": "https://www.khanacademy.org",
+          "description": "Free world-class education with personalized practice."
+        },
+        {
+          "name": "OpenStax",
+          "url": "https://openstax.org",
+          "description": "Peer-reviewed openly licensed college textbooks."
+        },
+        {
+          "name": "PhET Interactive Simulations",
+          "url": "https://phet.colorado.edu",
+          "description": "Free research-based science and math simulations."
+        },
+        {
+          "name": "LibreTexts",
+          "url": "https://libretexts.org",
+          "description": "Open textbooks and educational resources across many fields."
+        },
+        {
+          "name": "Project Gutenberg",
+          "url": "https://www.gutenberg.org",
+          "description": "70,000+ free public-domain eBooks."
+        },
+        {
+          "name": "Scratch",
+          "url": "https://scratch.mit.edu",
+          "description": "MIT creative coding platform for learning programming by making."
+        },
+        {
+          "name": "Coursera (Audit)",
+          "url": "https://www.coursera.org",
+          "description": "Many university courses can be audited for free."
+        }
+      ]
+    },
+    {
+      "name": "Creative Tools",
+      "items": [
+        {
+          "name": "Photopea",
+          "url": "https://www.photopea.com",
+          "description": "Full Photoshop-like editor that runs in the browser."
+        },
+        {
+          "name": "Excalidraw",
+          "url": "https://excalidraw.com",
+          "description": "Open-source virtual whiteboard with hand-drawn feel."
+        },
+        {
+          "name": "p5.js Web Editor",
+          "url": "https://editor.p5js.org",
+          "description": "Creative coding environment for interactive art and generative design."
+        },
+        {
+          "name": "CodePen",
+          "url": "https://codepen.io",
+          "description": "Front-end playground for HTML, CSS and JavaScript."
+        },
+        {
+          "name": "Figma (Free)",
+          "url": "https://www.figma.com",
+          "description": "Collaborative interface design tool with a strong free plan."
+        },
+        {
+          "name": "Tinkercad",
+          "url": "https://www.tinkercad.com",
+          "description": "Free browser-based 3D design and electronics simulation."
+        },
+        {
+          "name": "Radio Garden",
+          "url": "https://radio.garden",
+          "description": "Listen to live radio stations from anywhere on Earth."
+        },
+        {
+          "name": "Canva (Free)",
+          "url": "https://www.canva.com",
+          "description": "Easy graphic design with a generous free tier."
+        }
+      ]
+    }
+  ]
+}

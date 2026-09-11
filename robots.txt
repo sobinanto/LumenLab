@@ -1,0 +1,21 @@
+# Allow all respectful crawlers and AI agents
+User-agent: *
+Allow: /
+
+# Explicitly allow major AI crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://your-username.github.io/open-science-edu-creative/sitemap.xml

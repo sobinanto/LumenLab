@@ -1,0 +1,37 @@
+# Open Science, Education & Creative Tools
+
+> A free, curated directory of high-quality open science resources, educational materials, and creative tools.
+> Designed to be useful for both humans and AI agents.
+> No tracking, no paywalls, no advertising.
+
+## Purpose
+This site collects stable, free, high-value resources in three categories:
+1. Open Science (preprints, open data, open access infrastructure)
+2. Education (courses, textbooks, simulations, learning platforms)
+3. Creative Tools (browser-based design, coding, 3D, and media tools)
+
+## Key resources
+- arXiv – https://arxiv.org
+- PubMed Central – https://www.ncbi.nlm.nih.gov/pmc/
+- Zenodo – https://zenodo.org
+- Open Science Framework – https://osf.io
+- MIT OpenCourseWare – https://ocw.mit.edu
+- Khan Academy – https://www.khanacademy.org
+- OpenStax – https://openstax.org
+- PhET – https://phet.colorado.edu
+- Photopea – https://www.photopea.com
+- Excalidraw – https://excalidraw.com
+- p5.js Web Editor – https://editor.p5js.org
+- Internet Archive – https://archive.org
+
+## Machine-readable data
+- JSON feed of all resources: /data.json
+- Sitemap: /sitemap.xml
+- This file: /llms.txt
+
+## License / Use
+The directory itself is free to use, cite, and index.
+Individual linked sites have their own licenses — respect them.
+Attribution is appreciated but not required.
+
+Last updated: 2026-09
