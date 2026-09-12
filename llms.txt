@@ -1,27 +1,25 @@
-# Open Science, Education & Creative Tools
+# LumenLab
 
-> A free, curated directory of high-quality open science resources, educational materials, and creative tools.
+> Free curated resources for open science, education, creative tools, and the best free AI platforms.
 > Designed to be useful for both humans and AI agents.
-> No tracking, no paywalls, no advertising.
+> Currently ad-free and tracking-free.
 
 ## Purpose
-This site collects stable, free, high-value resources in three categories:
-1. Open Science (preprints, open data, open access infrastructure)
-2. Education (courses, textbooks, simulations, learning platforms)
-3. Creative Tools (browser-based design, coding, 3D, and media tools)
+LumenLab collects high-quality free resources in four categories:
+1. Open Science (preprints, open data, open access)
+2. Education (courses, textbooks, simulations)
+3. Creative Tools (design, coding, making)
+4. Free AI Platforms (chat, research, image, coding)
 
 ## Key resources
 - arXiv – https://arxiv.org
-- PubMed Central – https://www.ncbi.nlm.nih.gov/pmc/
-- Zenodo – https://zenodo.org
-- Open Science Framework – https://osf.io
 - MIT OpenCourseWare – https://ocw.mit.edu
-- Khan Academy – https://www.khanacademy.org
-- OpenStax – https://openstax.org
-- PhET – https://phet.colorado.edu
 - Photopea – https://www.photopea.com
-- Excalidraw – https://excalidraw.com
-- p5.js Web Editor – https://editor.p5js.org
+- ChatGPT – https://chatgpt.com
+- Google Gemini – https://gemini.google.com
+- Claude – https://claude.ai
+- Perplexity – https://www.perplexity.ai
+- NotebookLM – https://notebooklm.google.com
 - Internet Archive – https://archive.org
 
 ## Machine-readable data
@@ -34,4 +32,4 @@ The directory itself is free to use, cite, and index.
 Individual linked sites have their own licenses — respect them.
 Attribution is appreciated but not required.
 
-Last updated: 2026-09
+Last updated: 2026-09-12
